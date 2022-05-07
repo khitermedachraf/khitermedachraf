@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi I'm Achraf 👋 👨‍💻
 
+<img src="https://github.com/khitermedachraf/khitermedachraf/blob/main/ressources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" />
+</p>
 <!--
 **khitermedachraf/khitermedachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
