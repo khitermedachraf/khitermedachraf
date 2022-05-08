@@ -25,8 +25,12 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+<a href="https://github.com/khitermedachraf/khitermedachra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+</a>
+<a href="https://github.com/khitermedachraf/khitermedachra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
+</a>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
+
+
