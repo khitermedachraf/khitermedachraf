@@ -32,5 +32,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
 </a>
 
-<!-- ![Achraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf) -->
+![Achraf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf)
 
