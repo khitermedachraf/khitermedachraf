@@ -20,16 +20,17 @@
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 
-<br />
 <h4 align="center"> 
-  Visitor count<br />
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" />
 </h4>
 
 <br />
-<br />
 
 ---
+
+<br />
+
 
 <a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
