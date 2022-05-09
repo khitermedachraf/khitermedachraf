@@ -1,4 +1,15 @@
-# Hi I'm Achraf 👋 👨‍💻
+<h1 align="center">Hi 👋, I'm Achraf KHITER 👨‍💻</h1>
+<h3 align="center">CS student at USTHB.dz Univ, Talented Student at Microverse.org 🌟.</h3>
+
+<!-- <p> <a href="./ressources/believe.jpeg">
+  <img align="right" src="./ressources/believe.jpeg" style="width:600px;height:500px; margin-bottom:2em;" />
+</a></p> -->
+<br />
+<p> <a href="./ressources/code.gif">
+  <img align="right" src="./ressources/code.gif" style="width:600px;height:400px;margin-top:2em;" />
+</a></p>
+
+<br />
 
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
 - 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
@@ -9,17 +20,13 @@
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 
-<!-- <img src="https://github.com/khitermedachraf/khitermedachraf/blob/main/ressources/banner.png" alt="Hello world">
- -->
-
-<p align="center"> 
-  Visitor count<br>
+<br />
+<h4 align="center"> 
+  Visitor count<br />
   <img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" />
-</p>
-<!--
-**khitermedachraf/khitermedachraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+</h4>
 
+<br />
 <br />
 
 ---
