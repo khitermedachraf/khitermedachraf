@@ -6,10 +6,8 @@
 </a></p> -->
 <br />
 <p> <a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:600px;height:400px;margin-top:2em;" />
+  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;" />
 </a></p>
-
-<br />
 
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
 - 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
