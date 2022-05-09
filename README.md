@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with **finding a great job**.
 - 💬 Ask me about **Anything you want**.
 - 📫 How to reach me: {Coming Soon}.
-- 😄 Pronouns: **Ashraf KITER**.
+- 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 
 <!-- <img src="https://github.com/khitermedachraf/khitermedachraf/blob/main/ressources/banner.png" alt="Hello world">
