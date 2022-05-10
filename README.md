@@ -52,5 +52,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
 </a>
 <a href="https://github.com/khitermedachraf/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf&hide_border=false&theme=tokyonight" />
 </a>
