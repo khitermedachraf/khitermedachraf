@@ -18,8 +18,9 @@
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 <br>
-<h4 align="center">Visitor count</h4>  
+<h4 align="center">Visitor count</h4>   
 <p align="center"><img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" /></p>
+<p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
