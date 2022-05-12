@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Achraf KHITER 👨‍💻</h1>
-<h3 align="center">CS student at USTHB.dz Univ, Talented Student at Microverse.org 🌟.</h3>
+<h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.</h3>
 
 <!-- <p> <a href="./ressources/believe.jpeg">
   <img align="right" src="./ressources/believe.jpeg" style="width:600px;height:500px; margin-bottom:2em;" />
