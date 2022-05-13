@@ -10,7 +10,7 @@
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
 
 <p><a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
+  <img align="right" src="./ressources/code.gif" style="width:375px;height:300px;margin-top:2em;"/>
 </a></p>
 
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
@@ -50,6 +50,10 @@
 ---
 
 <br />
+
+ ![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
