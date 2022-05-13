@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=042F3D&width=385&height=45&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=45&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h2>
@@ -54,20 +54,37 @@
 
 ---
 
-<br />
+### Certificates & Licenses 🥇
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/d69c5dbd-65da-4d7f-aac6-61f8c7d0eeb9#gs.y6n1wo" target="blank"><img src="./ressources/html-css-badge.png" width="80"></a> 
+</p>
 
-## GitHub stats:
+---
 
- ![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
+## GitHub stats 🚀:
+
+ ![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=tokyonight&hide_border=false&area=true)
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 <a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
 </a>
+
+<br>
+
 <a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
 </a>
+
+### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
+
 <a href="https://wakatime.com/@khitermedachraf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight" />
 </a>
+
+---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊 </em>
