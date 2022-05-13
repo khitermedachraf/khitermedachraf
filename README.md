@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Achraf KHITER 👨‍💻</h1>
+<h1 align="center">  
+  <img src="./ressources/Earth.gif" width="24px">
+  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+  <img src="./ressources/Hi.gif" width="40px" />, I'm Achraf KHITER 👨‍💻</h1>
 <h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.</h3>
 
 <!-- <p> <a href="./ressources/believe.jpeg">
