@@ -13,6 +13,7 @@
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
+![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
 <p><a href="./ressources/code.gif">
   <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
