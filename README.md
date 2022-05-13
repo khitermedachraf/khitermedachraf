@@ -2,14 +2,15 @@
   <img src="./ressources/Earth.gif" width="24px">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
   <img src="./ressources/Hi.gif" width="40px" />, I'm Achraf KHITER 👨‍💻</h1>
-<h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟.</h3>
+<h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟. <br>
+</h3>
 
-<!-- <p> <a href="./ressources/believe.jpeg">
-  <img align="right" src="./ressources/believe.jpeg" style="width:600px;height:500px; margin-bottom:2em;" />
-</a></p> -->
-<br />
-<p> <a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;" />
+<h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h2>
+
+[![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
+
+<p><a href="./ressources/code.gif">
+  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
 </a></p>
 
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
@@ -25,7 +26,9 @@
 <p align="center"><img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" /></p>
 <p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/khitermed//" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
