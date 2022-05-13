@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=50&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=25&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
@@ -68,16 +68,17 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+<p>
 <a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
 </a>
+</p>
 
-<br>
-
-<a href="https://github.com/khitermedachraf/">
+<p><a href="https://github.com/khitermedachraf/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
-</a>
+</a></p>
+
+
 
 ### This week I spent my time on  <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
