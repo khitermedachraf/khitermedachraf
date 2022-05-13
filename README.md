@@ -5,6 +5,11 @@
 <h3 align="center">Full-Stack Web Developer ✔, Talented Student at Microverse.org 🌟. <br>
 </h3>
 
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=042F3D&width=385&height=45&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+</p>
+
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h2>
 
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
@@ -27,7 +32,7 @@
 <p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
 
 <h3 align="center">Connect with me:
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<img src='./ressources/handshake.gif' width="100px">
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/khitermed//" target="blank"><img align="center"
@@ -50,6 +55,8 @@
 ---
 
 <br />
+
+## GitHub stats:
 
  ![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
 
