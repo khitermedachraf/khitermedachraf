@@ -15,7 +15,7 @@
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
 
 <p><a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:375px;height:300px;margin-top:2em;"/>
+  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
 </a></p>
 
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
@@ -26,7 +26,7 @@
 - 📫 How to reach me: <a href="mailto:khiter.med7@gmail.com">Send Email</a>.
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
-
+<br>
 <h4 align="center">Visitor count</h4>   
 <p align="center"><img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" /></p>
 <p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
