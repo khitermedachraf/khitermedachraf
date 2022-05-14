@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=25&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
