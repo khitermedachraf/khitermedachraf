@@ -26,6 +26,7 @@
 - 🤔 I’m looking for help with **finding a great job**.
 - 💬 Ask me about **Anything you want**.
 - 📫 How to reach me: <a href="mailto:khiter.med7@gmail.com">Send an Email</a>.
+- 💻 All **my projects** are available [here](https://github.com/khitermedachraf?tab=repositories).
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
 <br>
