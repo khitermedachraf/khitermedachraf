@@ -86,7 +86,7 @@
 
 <p>
 <a href="https://github.com/khitermedachraf/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
 </a>
 </p>
 
