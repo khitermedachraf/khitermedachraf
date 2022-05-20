@@ -16,7 +16,7 @@
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
 <p><a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
+  <img align="right" src="./ressources/code.gif"  height="450"/>
 </a></p>
 
 - 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.usthb.dz/en) University, **Top 1 in Algeria**.
