@@ -95,7 +95,7 @@
 </p>
 
 <p><a href="https://github.com/khitermedachraf/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=7" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khitermedachraf&layout=compact&hide_border=false&theme=tokyonight&hide=python,pawn,assembly,pascal&langs_count=8" />
 </a></p>
 
 ### This week I spent my time on <img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
