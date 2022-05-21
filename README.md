@@ -7,26 +7,29 @@
 
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=25&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
 <h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
+![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
 <p><a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif" style="width:350px;height:300px;margin-top:2em;"/>
+  <img align="right" src="./ressources/code.gif"  height="450" width="800"/>
 </a></p>
 
+- 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.usthb.dz/en) University, **Top 1 in Algeria**.
 - 🔭 I'm currently working on my proficiency in **Web Dev** as well as **AI** and some **Information Security**.
 - 🌱 I’m currently learning **Full-Stack Web Development** At [Microverse](https://www.microverse.org/).
 - 👯 I’m looking to collaborate on **Real-World** and **Open-Source** projects
 - 🤔 I’m looking for help with **finding a great job**.
 - 💬 Ask me about **Anything you want**.
-- 📫 How to reach me: <a href="mailto:khiter.med7@gmail.com">Send Email</a>.
+- 📫 How to reach me: <a href="mailto:khiter.med7@gmail.com">Send an Email</a>.
+- 💻 All **my projects** are available [here](https://github.com/khitermedachraf?tab=repositories).
 - 😄 Pronouns: **He**/ **him** / **his**.
 - ⚡ Fun fact: I sleep **deeply** and **happily** only when I **have finished** all the **tasks assigned to me**.
-<br>
+
 <h4 align="center">Visitor count</h4>   
 <p align="center"><img src="https://profile-counter.glitch.me/khitermedachraf/count.svg" /></p>
 <p align="center"><img src="https://wakatime.com/badge/user/8aadce2e-cb76-4623-8f50-95a1db506f0a.svg" /></p>
@@ -57,8 +60,8 @@
 ### Skills 🛠️
 
 <p align="left">
-<a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#" target="blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-"></a>
+<a href="#" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a> <a href="#" target="blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a> &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
@@ -87,7 +90,7 @@
 
 <p>
 <a href="https://github.com/khitermedachraf/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khitermedachraf&count_private=true&show_icons=true&hide_border=false&langs_count=6&hide=python&theme=tokyonight" />
 </a>
 </p>
 
