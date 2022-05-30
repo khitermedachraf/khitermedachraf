@@ -15,8 +15,8 @@
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
 
-<p><a href="./ressources/code.gif">
-  <img align="right" src="./ressources/code.gif"  height="450" width="800"/>
+<p align="center"><a href="./ressources/code.gif">
+  <img src="./ressources/code.gif"  height="450" width="700"/>
 </a></p>
 
 - 🎓 I have a **Bachelor's** degree in **Computer Science** (General Computing & Mathematics). Obtained from the [USTHB](https://www.usthb.dz/en) University, **Top 1 in Algeria**.
