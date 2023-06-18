@@ -84,7 +84,7 @@
 
 ## GitHub stats 🚀:
 
-![Achraf's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
+![Achraf's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=khitermedachraf&theme=material-palenight&hide_border=false&area=true)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=khitermedachraf&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
