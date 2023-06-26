@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=00b2df&width=385&height=30&lines=Software+engineer+from+Algeria;Open-Source+Enthusiast;Learning+In+Public;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 </p>
 
-<h4>Hello, I am Achraf, a full stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
+<h4>Hello, I am Achraf, a full-stack Developer from Algeria. I love learning new languages and implementing them in various projects. Currently engrossed with JS Stack and hoping to learn a lot more!😄</h4>
 
 [![Github](https://img.shields.io/github/followers/khitermedachraf?label=Follow&style=social)](https://github.com/khitermedachraf)
 ![Most Active GitHub User Rank](https://eneaamvizyp9kap.m.pipedream.net)
@@ -76,9 +76,7 @@
 
 ## Certificates & Licenses 🥇
 
-<p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e947182f-0196-43b4-9193-989256dde921#gs.01yfs2" target="blank"><img src="./ressources/html-css-badge.png" width="80"></a> 
-</p>
+#### [Visit my Linkedin Profile](https://www.linkedin.com/in/khitermed)   
 
 ---
 
