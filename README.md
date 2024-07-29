@@ -84,12 +84,18 @@
 
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 &nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=whitee"></a>
+
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"></a>
 </p>
 
 
 ## Certificates & Licenses 🥇
 
-#### [Visit my Linkedin Profile](https://www.linkedin.com/in/khitermed)   
+#### [Visit my LinkedIn Profile](https://www.linkedin.com/in/khitermed)   
 
 ---
 
